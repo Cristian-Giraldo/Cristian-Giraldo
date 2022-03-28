@@ -53,7 +53,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/cristian-camilo-giraldo-rivera-959a71226/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-30363d.svg?style=for-the-badge&logo=linkedin&logoColor=white />
+    <img src=https://img.shields.io/badge/linkedin-0d1117.svg?style=for-the-badge&logo=linkedin&logoColor=white />
     <img src=https://img.shields.io/badge/-Cristian_Rivera-blue?&style=for-the-badge&logo />
   </a>
 <br/>
@@ -63,7 +63,7 @@
   </a>
 <br/>
   <a href="https://github.com/Cristian-Giraldo" target="_blank">
-    <img src=https://img.shields.io/badge/My_Web-30363d?style=for-the-badge&logo=dev.to&logoColor=white />
+    <img src=https://img.shields.io/badge/My_Web-0d1117?style=for-the-badge&logo=dev.to&logoColor=white />
     <img src=https://img.shields.io/badge/-Cristian.com-blue?&style=for-the-badge&logo />
   </a>
 </div>
@@ -72,7 +72,7 @@
 
 <div>
   <a href="https://github.com/Cristian-Giraldo" target="_blank">
-    <img src=https://img.shields.io/badge/Gmail-30363d?style=for-the-badge&logo=gmail&logoColor=white />
+    <img src=https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white />
     <img src=https://img.shields.io/badge/-personal_mail-D14836?&style=for-the-badge&logo />
   </a>
 </div>
