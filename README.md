@@ -42,7 +42,7 @@
   <img src=https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white /> 
 </div>
 
-### Project management:
+#### Project management:
 <div>
   <img src=https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white />
   <img src=https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white />
