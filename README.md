@@ -49,7 +49,7 @@
  <div>
 
 
-## Meet me at:
+## Find me at:
 
 <div>
   <a href="https://www.linkedin.com/in/cristian-camilo-giraldo-rivera-959a71226/" target="_blank">
