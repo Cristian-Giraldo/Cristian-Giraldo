@@ -58,7 +58,7 @@
   </a>
 <br/>
   <a href="https://www.facebook.com/crisangelk" target="_blank">
-    <img src=https://img.shields.io/badge/facebook-30363d.svg?&style=for-the-badge&logo=facebook&logoColor=white />
+    <img src=https://img.shields.io/badge/facebook-0d1117.svg?&style=for-the-badge&logo=facebook&logoColor=white />
     <img src=https://img.shields.io/badge/-Cristian_Rivera-blue?&style=for-the-badge&logo />
   </a>
 <br/>
