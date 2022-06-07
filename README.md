@@ -56,12 +56,6 @@
     <img src=https://img.shields.io/badge/linkedin-0d1117.svg?style=for-the-badge&logo=linkedin&logoColor=white />
     <img src=https://img.shields.io/badge/-Cristian_Rivera-blue?&style=for-the-badge&logo />
   </a>
-<br/>
-  <a href="https://www.facebook.com/crisangelk" target="_blank">
-    <img src=https://img.shields.io/badge/facebook-0d1117.svg?&style=for-the-badge&logo=facebook&logoColor=white />
-    <img src=https://img.shields.io/badge/-Cristian_Rivera-blue?&style=for-the-badge&logo />
-  </a>
-<br/>
   <a href="https://github.com/Cristian-Giraldo" target="_blank">
     <img src=https://img.shields.io/badge/My_Web-0d1117?style=for-the-badge&logo=dev.to&logoColor=white />
     <img src=https://img.shields.io/badge/-Cristian.com-blue?&style=for-the-badge&logo />
