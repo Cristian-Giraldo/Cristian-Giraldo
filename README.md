@@ -52,7 +52,7 @@
 ## Find me at:
 
 <div>
-  <a href="https://www.linkedin.com/in/cristian-camilo-giraldo-rivera-959a71226/" target="_blank">
+  <a href="https://www.linkedin.com/in/cristhian-giraldo/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-0d1117.svg?style=for-the-badge&logo=linkedin&logoColor=white />
     <img src=https://img.shields.io/badge/-Cristian_Rivera-blue?&style=for-the-badge&logo />
   </a>
